@@ -3,7 +3,7 @@ from threading import Thread
 from datetime import datetime
 
 SERVER_ADDRESS = '127.0.0.1'
-SERVER_PORT = 8080
+SERVER_PORT = 8081
 
 
 
